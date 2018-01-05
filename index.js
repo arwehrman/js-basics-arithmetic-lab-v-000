@@ -13,6 +13,4 @@ ageIsValid = Number.isInteger(currentAge);
 
 randomNumber = Math.random(); 
 
-randomInteger = 
 
-randomUserID = 
