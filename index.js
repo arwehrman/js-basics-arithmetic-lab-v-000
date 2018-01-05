@@ -14,3 +14,5 @@ ageIsValid = Number.isInteger(currentAge);
 randomNumber = Math.random();
 
 randomInteger = Math.floor(randomNumber);
+
+randomUserID = randomInteger + 1000000000;
